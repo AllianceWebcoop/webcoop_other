@@ -1,0 +1,10 @@
+id,firstname,middlename,lastname,member_type,membership_date,city,street,street2,zip,province_id/id,municipal_id/id,barangay_id/id,center_id/id,birthday,email,fax,mobile,company_contact,division,date_of_employement,payroll_number,employee_code,fund_transfer_type,fund_transfer,company_id/id
+wc_member_Test1_INI,Test1,C,AGUILAR,regular,12/1/2015,229 TENEMENT  PUNTA STA. ANA MANILA  MANILA METRO MANILA,,,,,,,,6/12/1982,,,,,CONSULAR,,998004989,,,,base.main_company
+wc_member_Test2_INI,Test2,M,ALEGRE,regular,1/1/2002,2677 GLADRILA ST. GOODWILL VILLAGE TAMBO  PARANAQUE METRO MANILA,,,,,,,,10/17/1979,,,,,CONSULAR,,171910427,,,,base.main_company
+wc_member_Test3_INI,Test3,D,ANAVISO,regular,4/30/2013,UNIT 521 ISABELLE DE HIDALGO R. HIDALGO ST. QUIAPO  MANILA METRO MANILA,,,,,,,,3/12/1976,,,,,CONSULAR,,171910989,,,,base.main_company
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
